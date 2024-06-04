@@ -1,0 +1,145 @@
+.navbar {
+    background-color: #16377e !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+.nav-link {
+    color: white !important;
+}
+
+.button {
+    background-color: #16377e;
+    color: white;
+    height: 45px;
+    width: 170px;
+    border: none;
+}
+.container {
+    color: white
+}
+
+.crypto {
+    background-color: #16377e;
+}
+.img {
+    width: 90%;
+}
+.head1 {
+    padding: 120px;
+}
+.main {
+    background-color: #16377e;
+}
+
+.cards {
+    text-align: center;
+    padding: 50px;
+}
+
+.logo {
+    width: 120px;
+    margin: 0 auto;
+}
+
+.card {
+    padding: 50px;
+    background-color: #f8f8f9 !important;
+    border: none !important;
+}
+
+.para {
+    margin: 30px;
+}
+
+.buttoncolor {
+    color: black
+}
+
+.about {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.main2 {
+    background-color: #16377e;
+}
+
+.aboutbutton {
+    margin-top: 15px;
+}
+
+.circle {
+    border-radius: 50%;
+    padding: 23px;
+    border: 5px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.expert {
+    font-weight: bolder;
+}   
+
+.cards2 {
+    text-align: center;
+    padding: 50px;
+}
+
+
+.logo2 {
+    width: 120px;
+    margin: 0 auto;
+    
+}
+
+.team {
+    background-color: #16377e;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+.team-card {
+    background-color: #294580 !important;
+    text-align: center;
+}
+
+.logo2 {
+    border-radius: 50%;
+}
+
+.team .card-title, span {
+    color: #00bbf0
+}
+
+.socials {
+    display: flex;
+    justify-content: space-between;
+}
+
+.team .card-text {
+    color: white;
+}
+
+.customers .card {
+    color: black;
+    margin: 47px;
+    padding: 20px 5px;
+    position:relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    width: 90px !important;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 50px !important;
+    position:absolute;
+    top: -45px;
+    left: 25px;
+}
+
+.arrows i {
+    padding: 10px 15px;
+    border: 1px solid rgb(225, 224, 224);
+}
